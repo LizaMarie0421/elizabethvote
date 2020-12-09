@@ -27,3 +27,6 @@
 /config/master.key
 .env
 .env
+
+#github privacy
+config/routes.rb
